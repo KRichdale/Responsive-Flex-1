@@ -13,3 +13,8 @@ Practiced pushing pages onto "github pages".. Wish I was able to use more.( Try 
 Pushed entirely off command line. 
 Needs more work but I'm happy with this for today.
 
+
+// PROBLEMS
+
+Im happy with how it looks on mobile. I really dislike the photo sizes on in my main content. It feels far to large on a desktop.
+(Work on your image sizing.)
